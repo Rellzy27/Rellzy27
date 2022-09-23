@@ -9,13 +9,15 @@
 
 - Live in **Malang, Indonesia**
 
-- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
+- Studying [***SMKN 1 GEDANGAN***](https://smkn4palembang.sch.id/)
 
-- Good with **C++**
+- Currently Learning **C++**
 
 - Have experience with **Photoshop** & **Mine Imator**
 
-- Understand 日本語, Bahasa, & English
+- Understand Bahasa & English
+
+- Understand a little 日本語
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />

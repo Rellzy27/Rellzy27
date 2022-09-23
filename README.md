@@ -5,15 +5,15 @@
 <br/>
 <br/>
   
-- Name **Reidho Satria**
+- Name **Muhammad Fahrel Hamdani**
 
-- Live in **Palembang, Indonesia**
+- Live in **Malang, Indonesia**
 
 - Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
 
-- Good with **Javascript** & **NodeJS**
+- Good with **C++**
 
-- Have experience with **Photoshop** & **Premiere**
+- Have experience with **Photoshop** & **Mine Imator**
 
 - Understand 日本語, Bahasa, & English
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />

@@ -9,7 +9,7 @@
 
 - Live in **Malang, Indonesia**
 
-- Studying [***SMKN 1 GEDANGAN***](https://smkn4palembang.sch.id/)
+- Studying [***SMKN 1 GEDANGAN***](http://smkn1gedangan-malang.sch.id/)
 
 - Currently Learning **C++**
 

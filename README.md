@@ -23,7 +23,8 @@
 <br/>
 
 
-<img src="./Fav Anime.png" width="500" /><br/>
+<img src="./Fav Anime.png" width="500" />
+<br/>
 
 - Saekano
 

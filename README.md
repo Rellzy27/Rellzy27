@@ -22,13 +22,20 @@
 <img src="./Kato Megumi.png" width="300" align="right" />
 <br/>
 
-- Best anime (my opinion):
+
+
 
 - Saekano
 
 - Charlotte
 
--
+- Mami Tsukiiro
+
+- Date A Live
+
+- Overlord
+
+- Konosuba
 
 <br/>
 <img src="./Banner.png" width="500" /><br/>

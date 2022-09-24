@@ -1,7 +1,7 @@
 <div>
 <img src="./Profile.png" width="300" align="right" />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="500" />
+<img src="./About me.png" width="500" />
 <br/>
 <br/>
   
@@ -18,14 +18,11 @@
 - Understand Bahasa & English
 
 - Understand a little 日本語
-<img src="./img/Waifu-elainaa.png" width="300" align="right" />
+<img src="./Kato Megumi.png" width="300" align="right" />
 <br/>
-<img src="./img/Repo-elaina.png" width="500" />
+
 <br/>
-<br/>
-  
-<br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="./Banner.png" width="500" /><br/>
   
 <sub> *“Even if you're an otaku, don't think you're unimportant.” – Megumi* </sub>
 <!--

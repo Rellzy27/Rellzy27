@@ -18,8 +18,17 @@
 - Understand Bahasa & English
 
 - Understand a little 日本語
+
 <img src="./Kato Megumi.png" width="300" align="right" />
 <br/>
+
+- Best anime (my opinion):
+
+- Saekano
+
+- Charlotte
+
+-
 
 <br/>
 <img src="./Banner.png" width="500" /><br/>

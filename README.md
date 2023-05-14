@@ -11,7 +11,7 @@
 
 - Studying [***SMKN 1 GEDANGAN***](http://smkn1gedangan-malang.sch.id/)
 
-- Currently Learning **C++**
+- Currently Learning **HTML**
 
 - Have experience with **Photoshop** & **Mine Imator**
 

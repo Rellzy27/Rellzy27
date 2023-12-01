@@ -46,3 +46,4 @@
 </div>
 
 ![Rellzy27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rellzy27&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rellzy27&layout=pie)](https://github.com/anuraghazra/github-readme-stats)

@@ -44,3 +44,5 @@
 <sub> *“Even if you're an otaku, don't think you're unimportant.” – Megumi* </sub>
 
 </div>
+
+![Rellzy27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rellzy27&show_icons=true&theme=transparent)

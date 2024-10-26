@@ -7,7 +7,7 @@
 
 - Student
 - Playing CTF's at spare time
-- Currently learning Web DevOpps
+- Currently learning Web DevOps
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=Rellzy27&label=Profile%20views&color=0e75b6&style=flat" alt="Rellzy27" />
